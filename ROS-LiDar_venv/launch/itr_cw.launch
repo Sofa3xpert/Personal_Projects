@@ -1,0 +1,15 @@
+<launch>
+     <include file="$(find rosplan_stage_demo)/launch/empty_stage_single_robot.launch" />
+
+     <node pkg="second_coursework" type="itr_cwAI24" name="video_player" args="vid_folder" />
+
+     <node pkg="second_coursework" type="main_node.py" name="main_node"/>
+     <node pkg="second_coursework" type="gototable.py" name="gototable"/>
+     <node pkg="second_coursework" type="waitforrequest.py" name="waitforrequest"/>
+     <node pkg="second_coursework" type="gotokitchen.py" name="gotokitchen"/>
+     <node pkg="second_coursework" type="findfood.py" name="findfood"/>
+     <node pkg="second_coursework" type="askforhelp.py" name="askforhelp"/>
+     <node pkg="second_coursework" type="returntotable.py" name="returntotable"/>
+     <node pkg="second_coursework" type="deliverfood.py" name="deliverfood"/>
+
+</launch>
