@@ -1,2 +1,2 @@
-# CW1_ML
-Repo designated for CW1 Machine Learning 
+# (ACADEMIC) Example of data analysis in feature engnineering ML module
+Repo designated for Machine Learning 
