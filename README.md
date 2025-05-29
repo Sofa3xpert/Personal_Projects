@@ -1,4 +1,4 @@
-# Mental Health Assistant Platform
+# Mental Health Assistant Platform (ACADEMIC) Original Repo: https://github.kcl.ac.uk/k23051132/Group-1
 
 A platform for mental health diagnosis, treatment recommendation, and patient management.
 
