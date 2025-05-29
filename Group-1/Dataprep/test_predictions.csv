@@ -1,0 +1,76 @@
+example_number,statement,true_status,predicted_med_1,confidence_score_1,predicted_med_2,confidence_score_2,predicted_med_3,confidence_score_3
+0,Anxiety,Anxiolytics,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+1,Suicidal,Benzodiazepines,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+2,Bipolar,Antidepressants,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+3,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+4,Suicidal,Benzodiazepines,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+5,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+6,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+7,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+8,Depression,Mood Stabilizers,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+9,Bipolar,Mood Stabilizers,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+10,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+11,Bipolar,Anxiolytics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+12,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+13,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+14,Suicidal,Antipsychotics,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+15,Anxiety,Anxiolytics,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+16,Bipolar,Mood Stabilizers,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+17,Bipolar,Benzodiazepines,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+18,Bipolar,Antidepressants,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+19,Suicidal,Anxiolytics,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+20,Anxiety,Antipsychotics,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+21,Suicidal,SSRIs,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+22,Depression,Antidepressants,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+23,Bipolar,Antipsychotics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+24,Depression,Benzodiazepines,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+25,Suicidal,Anxiolytics,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+26,Depression,Antipsychotics,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+27,Bipolar,Mood Stabilizers,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+28,Bipolar,Anxiolytics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+29,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+30,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+31,Bipolar,Antidepressants,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+32,Bipolar,Anxiolytics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+33,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+34,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+35,Anxiety,Anxiolytics,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+36,Bipolar,Benzodiazepines,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+37,Depression,Antidepressants,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+38,Anxiety,Antipsychotics,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+39,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+40,Depression,Anxiolytics,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+41,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+42,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+43,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+44,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+45,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+46,Bipolar,SSRIs,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+47,Suicidal,Anxiolytics,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+48,Depression,SSRIs,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+49,Anxiety,Benzodiazepines,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+50,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+51,Anxiety,Antipsychotics,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+52,Depression,Mood Stabilizers,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+53,Anxiety,SSRIs,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+54,Bipolar,Anxiolytics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+55,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+56,Bipolar,Anxiolytics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+57,Anxiety,Benzodiazepines,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+58,Depression,Mood Stabilizers,Antipsychotics,0.20283356308937073,Mood Stabilizers,0.19284047186374664,Anxiolytics,0.16374173760414124
+59,Suicidal,SSRIs,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+60,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+61,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+62,Bipolar,Antipsychotics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+63,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+64,Bipolar,Benzodiazepines,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+65,Suicidal,Anxiolytics,Mood Stabilizers,0.20618249475955963,Antipsychotics,0.17812004685401917,Benzodiazepines,0.1677575558423996
+66,Bipolar,Benzodiazepines,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+67,Bipolar,SSRIs,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+68,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+69,Anxiety,Antidepressants,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174
+70,Bipolar,Antipsychotics,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+71,Bipolar,Benzodiazepines,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+72,Bipolar,SSRIs,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+73,Bipolar,Antidepressants,Mood Stabilizers,0.22279518842697144,Antipsychotics,0.2026437669992447,Antidepressants,0.15514245629310608
+74,Anxiety,Mood Stabilizers,Mood Stabilizers,0.18878784775733948,Antipsychotics,0.18307510018348694,Anxiolytics,0.1755792647600174

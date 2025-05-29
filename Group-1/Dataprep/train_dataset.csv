@@ -1,0 +1,351 @@
+Patient ID,Age,Gender,Diagnosis,Symptom Severity (1-10),Mood Score (1-10),Sleep Quality (1-10),Physical Activity (hrs/week),Medication,Therapy Type,Treatment Start Date,Treatment Duration (weeks),Stress Level (1-10),Outcome,Treatment Progress (1-10),AI-Detected Emotional State,Adherence to Treatment (%)
+6,28,Male,Anxiety,8,7,6,4,SSRIs,Cognitive Behavioral Therapy,2024-01-11,13,9,No Change,7,Stressed,82
+117,43,Male,Bipolar,5,4,6,3,Mood Stabilizers,Dialectical Behavioral Therapy,2024-03-13,12,5,Improved,9,Depressed,85
+46,43,Female,Bipolar,9,6,5,10,Antidepressants,Dialectical Behavioral Therapy,2024-03-29,9,10,No Change,9,Depressed,83
+17,30,Male,Bipolar,10,8,5,5,Mood Stabilizers,Mindfulness-Based Therapy,2024-01-19,9,9,No Change,6,Depressed,86
+463,31,Female,Bipolar,6,4,6,2,Antidepressants,Cognitive Behavioral Therapy,2024-04-02,10,7,Improved,7,Excited,74
+358,55,Male,Suicidal,10,5,6,10,Antipsychotics,Cognitive Behavioral Therapy,2024-02-03,10,5,Deteriorated,7,Anxious,78
+4,34,Female,Depression,6,3,6,5,SSRIs,Mindfulness-Based Therapy,2024-03-29,8,8,Deteriorated,10,Excited,72
+219,20,Female,Bipolar,10,4,6,8,Mood Stabilizers,Cognitive Behavioral Therapy,2024-03-08,14,8,No Change,10,Happy,62
+406,52,Female,Anxiety,9,5,6,6,SSRIs,Dialectical Behavioral Therapy,2024-01-13,16,5,Improved,6,Neutral,74
+61,56,Female,Anxiety,9,8,7,1,Benzodiazepines,Interpersonal Therapy,2024-03-13,10,6,Improved,9,Depressed,87
+111,41,Male,Anxiety,5,8,8,2,Anxiolytics,Cognitive Behavioral Therapy,2024-01-03,14,9,No Change,5,Depressed,65
+319,45,Male,Bipolar,8,4,9,3,Benzodiazepines,Mindfulness-Based Therapy,2024-01-10,12,10,Deteriorated,5,Anxious,69
+429,35,Female,Bipolar,5,5,4,8,Antidepressants,Mindfulness-Based Therapy,2024-04-03,12,9,Deteriorated,5,Happy,85
+30,41,Female,Depression,7,6,6,9,SSRIs,Cognitive Behavioral Therapy,2024-01-12,14,8,Improved,9,Depressed,83
+438,49,Male,Bipolar,10,8,6,1,Antidepressants,Interpersonal Therapy,2024-02-05,16,8,Improved,5,Neutral,88
+472,38,Male,Bipolar,9,5,7,3,Anxiolytics,Interpersonal Therapy,2024-03-08,15,6,Deteriorated,8,Neutral,65
+27,23,Male,Bipolar,7,5,7,6,Benzodiazepines,Interpersonal Therapy,2024-03-25,15,5,No Change,10,Happy,77
+8,32,Female,Depression,5,3,5,2,Antidepressants,Cognitive Behavioral Therapy,2024-02-03,12,5,No Change,6,Stressed,74
+454,44,Male,Depression,5,8,5,10,Anxiolytics,Dialectical Behavioral Therapy,2024-01-24,14,10,Deteriorated,10,Depressed,80
+109,23,Male,Anxiety,7,3,4,6,Anxiolytics,Mindfulness-Based Therapy,2024-01-19,14,10,No Change,8,Depressed,78
+38,33,Male,Anxiety,5,6,6,2,Antidepressants,Dialectical Behavioral Therapy,2024-02-28,10,8,Deteriorated,5,Neutral,86
+158,60,Male,Anxiety,10,6,6,10,Anxiolytics,Dialectical Behavioral Therapy,2024-01-06,9,5,Deteriorated,8,Anxious,76
+490,60,Male,Bipolar,8,3,7,6,Benzodiazepines,Dialectical Behavioral Therapy,2024-02-08,10,9,Improved,8,Anxious,87
+119,29,Male,Bipolar,9,6,6,10,Anxiolytics,Cognitive Behavioral Therapy,2024-03-15,16,9,No Change,6,Anxious,82
+115,28,Male,Anxiety,7,7,8,3,Anxiolytics,Mindfulness-Based Therapy,2024-02-03,15,6,Improved,10,Neutral,89
+176,24,Male,Anxiety,8,6,6,4,Benzodiazepines,Interpersonal Therapy,2024-03-12,9,10,Improved,9,Stressed,76
+374,19,Female,Depression,7,3,5,7,SSRIs,Interpersonal Therapy,2024-03-22,14,7,Deteriorated,6,Happy,65
+182,28,Male,Depression,6,5,6,6,Benzodiazepines,Cognitive Behavioral Therapy,2024-01-01,12,7,Improved,5,Neutral,60
+145,21,Female,Suicidal,8,8,7,1,Antipsychotics,Interpersonal Therapy,2024-02-19,12,5,No Change,7,Happy,76
+370,31,Male,Anxiety,5,4,5,7,Benzodiazepines,Cognitive Behavioral Therapy,2024-01-07,9,5,No Change,5,Anxious,76
+391,25,Male,Anxiety,9,6,4,9,Mood Stabilizers,Interpersonal Therapy,2024-03-04,13,5,No Change,9,Anxious,65
+196,27,Female,Bipolar,5,8,4,4,SSRIs,Dialectical Behavioral Therapy,2024-02-13,10,6,No Change,7,Excited,90
+405,44,Female,Suicidal,8,8,6,2,Mood Stabilizers,Mindfulness-Based Therapy,2024-03-25,13,8,Improved,10,Neutral,67
+276,45,Male,Bipolar,6,4,8,10,Antipsychotics,Mindfulness-Based Therapy,2024-03-09,9,10,Deteriorated,9,Anxious,76
+455,18,Male,Anxiety,9,4,7,4,SSRIs,Mindfulness-Based Therapy,2024-02-20,12,8,Improved,5,Neutral,72
+142,55,Male,Anxiety,10,3,9,3,Mood Stabilizers,Dialectical Behavioral Therapy,2024-03-20,8,10,Improved,5,Anxious,73
+366,40,Male,Depression,6,5,8,8,Antidepressants,Cognitive Behavioral Therapy,2024-03-24,12,10,Deteriorated,6,Anxious,90
+68,35,Female,Depression,7,3,5,9,Mood Stabilizers,Cognitive Behavioral Therapy,2024-02-18,14,8,Improved,10,Happy,75
+211,46,Female,Bipolar,6,5,7,8,SSRIs,Cognitive Behavioral Therapy,2024-03-24,14,9,No Change,8,Anxious,82
+169,28,Male,Anxiety,6,3,9,7,Benzodiazepines,Dialectical Behavioral Therapy,2024-02-02,16,10,Improved,10,Stressed,72
+494,23,Male,Anxiety,9,4,8,2,Anxiolytics,Interpersonal Therapy,2024-01-04,9,8,Improved,6,Happy,60
+376,51,Female,Anxiety,10,7,7,9,SSRIs,Cognitive Behavioral Therapy,2024-02-13,15,6,No Change,8,Excited,76
+401,49,Male,Anxiety,6,3,9,2,Antidepressants,Dialectical Behavioral Therapy,2024-01-16,15,8,No Change,8,Anxious,62
+273,56,Female,Anxiety,5,6,7,8,Anxiolytics,Cognitive Behavioral Therapy,2024-02-21,16,10,No Change,7,Happy,67
+110,30,Female,Bipolar,5,4,5,4,Antipsychotics,Dialectical Behavioral Therapy,2024-03-30,15,10,No Change,8,Happy,75
+249,47,Male,Anxiety,7,6,4,5,Antidepressants,Interpersonal Therapy,2024-03-29,13,6,Deteriorated,8,Stressed,66
+146,29,Male,Anxiety,10,6,4,3,SSRIs,Cognitive Behavioral Therapy,2024-03-28,13,8,Deteriorated,10,Anxious,78
+93,49,Female,Anxiety,9,6,8,5,Anxiolytics,Cognitive Behavioral Therapy,2024-01-20,8,9,Improved,7,Neutral,79
+153,58,Male,Anxiety,5,5,5,10,Antidepressants,Interpersonal Therapy,2024-02-17,8,8,Improved,8,Anxious,68
+368,29,Female,Anxiety,8,7,8,8,Benzodiazepines,Mindfulness-Based Therapy,2024-02-13,9,7,Improved,10,Neutral,75
+468,57,Female,Anxiety,8,4,6,8,Benzodiazepines,Interpersonal Therapy,2024-03-23,8,8,Deteriorated,10,Neutral,89
+84,31,Female,Anxiety,7,8,8,6,Antidepressants,Cognitive Behavioral Therapy,2024-03-25,14,9,Deteriorated,9,Excited,62
+246,26,Female,Anxiety,10,6,8,10,SSRIs,Dialectical Behavioral Therapy,2024-02-21,8,9,No Change,8,Stressed,82
+166,52,Female,Anxiety,5,6,6,1,Benzodiazepines,Mindfulness-Based Therapy,2024-03-25,15,8,Improved,5,Happy,90
+164,35,Male,Depression,6,6,4,2,Benzodiazepines,Mindfulness-Based Therapy,2024-01-27,10,10,No Change,7,Anxious,75
+200,54,Female,Bipolar,9,7,9,5,Benzodiazepines,Mindfulness-Based Therapy,2024-01-03,15,9,Deteriorated,5,Excited,61
+229,41,Female,Anxiety,8,6,5,7,Anxiolytics,Interpersonal Therapy,2024-02-13,11,5,Deteriorated,8,Excited,85
+75,24,Male,Depression,5,8,6,5,Mood Stabilizers,Cognitive Behavioral Therapy,2024-03-15,14,8,Deteriorated,7,Anxious,67
+479,29,Male,Bipolar,10,5,5,6,Antipsychotics,Mindfulness-Based Therapy,2024-02-25,14,10,Improved,5,Stressed,78
+359,49,Female,Bipolar,5,3,8,6,Antidepressants,Mindfulness-Based Therapy,2024-02-22,12,6,Deteriorated,7,Happy,87
+251,56,Male,Bipolar,7,8,9,10,Antipsychotics,Dialectical Behavioral Therapy,2024-02-01,12,10,Improved,10,Depressed,84
+120,45,Female,Bipolar,8,6,9,3,Mood Stabilizers,Mindfulness-Based Therapy,2024-01-16,13,8,Improved,10,Neutral,66
+311,30,Female,Anxiety,9,6,8,3,Antipsychotics,Cognitive Behavioral Therapy,2024-03-21,10,10,Improved,8,Anxious,64
+300,32,Male,Depression,5,8,4,3,Mood Stabilizers,Interpersonal Therapy,2024-01-24,11,7,No Change,7,Stressed,62
+256,26,Male,Suicidal,8,6,8,6,Antidepressants,Dialectical Behavioral Therapy,2024-04-06,8,10,No Change,8,Excited,75
+355,27,Male,Anxiety,8,5,6,6,Benzodiazepines,Interpersonal Therapy,2024-03-09,11,8,Deteriorated,8,Excited,75
+400,33,Male,Anxiety,8,4,4,5,Antidepressants,Mindfulness-Based Therapy,2024-01-07,8,7,Improved,10,Happy,69
+226,21,Male,Anxiety,8,8,4,2,Mood Stabilizers,Dialectical Behavioral Therapy,2024-02-22,15,7,No Change,5,Neutral,88
+354,34,Male,Anxiety,9,8,5,8,Antipsychotics,Cognitive Behavioral Therapy,2024-03-23,11,5,Improved,6,Excited,85
+235,29,Male,Anxiety,9,5,9,10,SSRIs,Interpersonal Therapy,2024-03-19,10,10,Improved,5,Neutral,60
+383,54,Female,Anxiety,10,8,4,1,Benzodiazepines,Cognitive Behavioral Therapy,2024-01-20,16,6,No Change,8,Depressed,89
+275,46,Male,Anxiety,9,7,9,8,Antipsychotics,Dialectical Behavioral Therapy,2024-01-09,14,8,No Change,10,Depressed,84
+37,45,Female,Bipolar,5,5,6,6,Benzodiazepines,Mindfulness-Based Therapy,2024-01-18,14,9,Deteriorated,6,Neutral,88
+197,50,Male,Anxiety,8,7,8,10,Anxiolytics,Dialectical Behavioral Therapy,2024-04-08,14,7,No Change,7,Happy,70
+140,57,Male,Anxiety,8,5,5,7,SSRIs,Interpersonal Therapy,2024-01-04,9,9,Improved,6,Depressed,85
+365,50,Female,Depression,6,7,8,4,Benzodiazepines,Dialectical Behavioral Therapy,2024-01-23,16,10,Improved,7,Excited,61
+245,20,Female,Anxiety,8,6,4,4,Antipsychotics,Dialectical Behavioral Therapy,2024-02-19,11,10,Deteriorated,5,Depressed,89
+440,36,Female,Anxiety,5,5,4,8,Antidepressants,Cognitive Behavioral Therapy,2024-02-07,14,8,Improved,5,Excited,64
+287,41,Male,Bipolar,8,6,5,7,Antidepressants,Interpersonal Therapy,2024-03-25,10,5,Improved,8,Excited,62
+60,47,Male,Bipolar,10,4,6,4,SSRIs,Interpersonal Therapy,2024-04-01,12,7,Improved,8,Anxious,60
+112,58,Female,Anxiety,10,8,6,3,Benzodiazepines,Mindfulness-Based Therapy,2024-02-23,11,8,Deteriorated,6,Depressed,76
+90,22,Female,Suicidal,9,7,7,4,Benzodiazepines,Dialectical Behavioral Therapy,2024-02-13,16,6,Improved,6,Excited,61
+437,24,Female,Anxiety,9,5,4,8,SSRIs,Dialectical Behavioral Therapy,2024-01-23,11,9,No Change,9,Happy,80
+7,59,Male,Anxiety,6,6,5,3,Mood Stabilizers,Dialectical Behavioral Therapy,2024-02-21,13,8,Deteriorated,5,Anxious,79
+361,22,Female,Suicidal,10,3,9,4,Anxiolytics,Dialectical Behavioral Therapy,2024-03-24,15,7,Deteriorated,5,Happy,67
+347,32,Female,Anxiety,6,5,8,2,Mood Stabilizers,Cognitive Behavioral Therapy,2024-01-13,12,5,Improved,5,Stressed,86
+339,48,Male,Anxiety,7,7,8,3,Antidepressants,Mindfulness-Based Therapy,2024-01-07,15,10,Deteriorated,5,Excited,76
+159,55,Female,Depression,5,5,7,3,SSRIs,Cognitive Behavioral Therapy,2024-01-24,12,9,No Change,7,Stressed,84
+151,22,Female,Anxiety,10,4,8,3,SSRIs,Cognitive Behavioral Therapy,2024-03-06,12,10,Improved,8,Stressed,65
+178,56,Male,Depression,6,4,4,3,Mood Stabilizers,Dialectical Behavioral Therapy,2024-01-16,12,6,Deteriorated,7,Anxious,76
+394,46,Female,Anxiety,6,3,9,1,Antidepressants,Cognitive Behavioral Therapy,2024-02-04,15,10,No Change,7,Depressed,86
+185,40,Female,Anxiety,8,7,6,1,Anxiolytics,Interpersonal Therapy,2024-02-16,9,10,No Change,10,Excited,76
+450,25,Male,Bipolar,9,3,7,7,Antidepressants,Interpersonal Therapy,2024-04-01,15,7,Deteriorated,8,Stressed,82
+11,42,Female,Anxiety,6,6,7,2,Antidepressants,Mindfulness-Based Therapy,2024-02-01,11,5,Deteriorated,8,Stressed,72
+381,27,Female,Anxiety,7,6,8,5,SSRIs,Mindfulness-Based Therapy,2024-03-25,8,6,Deteriorated,5,Stressed,68
+104,36,Male,Suicidal,9,6,4,3,Mood Stabilizers,Mindfulness-Based Therapy,2024-01-19,10,5,No Change,10,Excited,85
+82,23,Male,Depression,6,6,6,6,Benzodiazepines,Interpersonal Therapy,2024-02-21,15,7,No Change,8,Excited,86
+39,31,Male,Depression,6,8,4,10,Antidepressants,Dialectical Behavioral Therapy,2024-01-02,12,6,Deteriorated,9,Neutral,90
+315,20,Female,Anxiety,5,8,9,10,Anxiolytics,Cognitive Behavioral Therapy,2024-03-16,15,6,No Change,10,Anxious,64
+168,23,Male,Suicidal,10,3,7,7,SSRIs,Interpersonal Therapy,2024-02-13,16,10,No Change,10,Excited,90
+470,55,Male,Anxiety,6,4,7,6,Mood Stabilizers,Dialectical Behavioral Therapy,2024-03-20,14,8,Deteriorated,7,Excited,72
+297,58,Female,Anxiety,7,3,6,4,Benzodiazepines,Interpersonal Therapy,2024-03-04,9,6,Deteriorated,9,Stressed,86
+475,20,Male,Anxiety,7,7,9,9,SSRIs,Cognitive Behavioral Therapy,2024-01-20,15,8,No Change,6,Stressed,62
+199,24,Female,Suicidal,10,6,9,4,Benzodiazepines,Mindfulness-Based Therapy,2024-01-22,14,8,No Change,6,Happy,80
+298,56,Male,Anxiety,6,3,4,10,Mood Stabilizers,Dialectical Behavioral Therapy,2024-01-16,16,8,No Change,8,Happy,85
+417,35,Female,Bipolar,10,5,4,6,SSRIs,Interpersonal Therapy,2024-01-21,8,8,Improved,8,Excited,86
+147,48,Male,Suicidal,8,5,9,9,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-17,11,9,Improved,9,Excited,84
+393,19,Female,Depression,6,6,8,4,Mood Stabilizers,Cognitive Behavioral Therapy,2024-02-27,15,7,Deteriorated,7,Happy,90
+148,45,Female,Anxiety,6,3,4,3,Mood Stabilizers,Interpersonal Therapy,2024-03-29,13,5,No Change,6,Anxious,65
+448,33,Male,Bipolar,8,5,7,1,Antidepressants,Dialectical Behavioral Therapy,2024-02-25,11,5,No Change,9,Neutral,73
+288,49,Male,Depression,6,6,7,9,Benzodiazepines,Interpersonal Therapy,2024-01-04,11,7,No Change,5,Anxious,83
+124,50,Male,Suicidal,8,4,5,5,SSRIs,Interpersonal Therapy,2024-01-14,9,7,No Change,5,Happy,84
+369,24,Female,Suicidal,10,4,7,2,Anxiolytics,Mindfulness-Based Therapy,2024-03-23,16,7,Deteriorated,5,Stressed,76
+97,51,Male,Depression,6,5,6,8,Anxiolytics,Dialectical Behavioral Therapy,2024-03-09,14,6,Improved,8,Happy,85
+144,21,Male,Bipolar,9,5,7,3,Benzodiazepines,Mindfulness-Based Therapy,2024-01-17,9,6,No Change,6,Stressed,90
+240,60,Male,Anxiety,8,8,8,1,SSRIs,Dialectical Behavioral Therapy,2024-01-22,14,8,Deteriorated,5,Stressed,82
+443,53,Female,Anxiety,7,3,4,10,SSRIs,Mindfulness-Based Therapy,2024-01-23,12,8,No Change,5,Anxious,61
+98,46,Male,Suicidal,10,8,9,3,Antidepressants,Dialectical Behavioral Therapy,2024-03-29,16,6,No Change,10,Excited,74
+408,50,Male,Anxiety,9,6,4,6,Mood Stabilizers,Mindfulness-Based Therapy,2024-03-28,10,5,Improved,7,Anxious,80
+123,35,Female,Anxiety,10,6,6,5,SSRIs,Dialectical Behavioral Therapy,2024-02-03,12,8,Deteriorated,5,Stressed,85
+184,59,Female,Suicidal,8,4,7,5,Antidepressants,Mindfulness-Based Therapy,2024-02-05,9,9,Deteriorated,8,Neutral,62
+203,30,Male,Depression,7,6,6,6,SSRIs,Mindfulness-Based Therapy,2024-02-23,11,7,No Change,8,Neutral,79
+247,54,Male,Anxiety,9,4,8,3,Antidepressants,Mindfulness-Based Therapy,2024-03-20,12,10,Improved,9,Neutral,90
+306,27,Male,Bipolar,6,4,6,4,Antipsychotics,Cognitive Behavioral Therapy,2024-02-01,13,9,Deteriorated,6,Excited,83
+299,60,Female,Anxiety,7,6,4,8,Antipsychotics,Cognitive Behavioral Therapy,2024-01-09,13,6,Improved,8,Neutral,72
+352,39,Male,Bipolar,9,7,8,3,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-20,12,9,No Change,9,Happy,63
+387,19,Female,Anxiety,7,7,8,6,Antipsychotics,Mindfulness-Based Therapy,2024-02-03,13,9,Improved,10,Stressed,66
+396,19,Male,Anxiety,5,5,7,9,Anxiolytics,Mindfulness-Based Therapy,2024-02-20,13,10,Deteriorated,6,Depressed,67
+285,28,Female,Anxiety,10,5,9,5,Anxiolytics,Interpersonal Therapy,2024-03-31,14,9,No Change,8,Excited,84
+126,43,Male,Anxiety,7,3,9,8,Benzodiazepines,Cognitive Behavioral Therapy,2024-02-04,14,10,No Change,8,Anxious,77
+303,32,Male,Anxiety,6,5,9,2,Antipsychotics,Interpersonal Therapy,2024-01-24,13,5,Improved,9,Anxious,77
+224,47,Male,Bipolar,5,5,6,5,Antipsychotics,Interpersonal Therapy,2024-02-06,15,9,No Change,10,Anxious,63
+419,45,Female,Anxiety,7,7,6,2,Antidepressants,Mindfulness-Based Therapy,2024-01-15,12,8,Deteriorated,10,Stressed,83
+220,44,Female,Suicidal,10,4,6,9,Anxiolytics,Interpersonal Therapy,2024-03-15,11,5,Improved,5,Excited,81
+130,28,Male,Anxiety,9,4,5,7,Antipsychotics,Interpersonal Therapy,2024-02-07,13,10,Deteriorated,5,Excited,61
+421,28,Male,Bipolar,6,3,9,9,Antipsychotics,Dialectical Behavioral Therapy,2024-02-15,12,7,Improved,6,Happy,65
+290,26,Male,Bipolar,5,7,5,4,Mood Stabilizers,Dialectical Behavioral Therapy,2024-01-16,11,10,Improved,8,Neutral,83
+445,59,Male,Depression,6,7,9,9,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-28,14,6,Deteriorated,6,Neutral,62
+377,57,Female,Anxiety,9,6,6,2,SSRIs,Dialectical Behavioral Therapy,2024-03-03,11,9,No Change,6,Anxious,79
+292,30,Female,Anxiety,9,7,5,8,Anxiolytics,Interpersonal Therapy,2024-02-28,11,5,Improved,9,Neutral,86
+356,40,Male,Depression,5,5,5,5,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-23,9,10,No Change,6,Anxious,90
+295,38,Male,Bipolar,8,4,5,8,Benzodiazepines,Dialectical Behavioral Therapy,2024-01-26,14,7,Deteriorated,9,Happy,77
+397,56,Female,Bipolar,8,3,7,3,Antipsychotics,Dialectical Behavioral Therapy,2024-04-03,15,9,Improved,5,Depressed,64
+341,21,Male,Anxiety,9,3,4,6,Antipsychotics,Dialectical Behavioral Therapy,2024-02-25,11,7,Improved,8,Happy,62
+113,37,Male,Bipolar,5,8,7,2,Anxiolytics,Mindfulness-Based Therapy,2024-03-05,9,6,Improved,8,Excited,82
+180,19,Male,Anxiety,7,7,7,10,Anxiolytics,Dialectical Behavioral Therapy,2024-01-12,13,7,No Change,6,Excited,73
+308,60,Male,Anxiety,6,6,6,10,SSRIs,Dialectical Behavioral Therapy,2024-02-12,14,8,Improved,10,Depressed,81
+433,57,Male,Anxiety,10,6,4,1,Antipsychotics,Dialectical Behavioral Therapy,2024-02-09,9,5,Deteriorated,6,Depressed,70
+488,56,Male,Depression,5,8,9,10,Antipsychotics,Interpersonal Therapy,2024-01-28,11,5,Improved,10,Happy,90
+482,36,Female,Anxiety,5,3,5,10,Antipsychotics,Cognitive Behavioral Therapy,2024-02-22,14,6,Improved,5,Stressed,77
+423,50,Male,Depression,5,4,5,3,Benzodiazepines,Dialectical Behavioral Therapy,2024-02-16,13,8,Deteriorated,9,Happy,69
+234,18,Female,Bipolar,8,6,7,7,SSRIs,Dialectical Behavioral Therapy,2024-01-26,11,9,No Change,7,Anxious,87
+312,32,Male,Anxiety,9,4,9,7,Anxiolytics,Mindfulness-Based Therapy,2024-02-02,11,6,Deteriorated,8,Depressed,78
+165,37,Male,Bipolar,8,6,8,3,Anxiolytics,Mindfulness-Based Therapy,2024-01-13,8,7,Improved,10,Anxious,65
+137,32,Male,Anxiety,7,7,8,7,Antidepressants,Interpersonal Therapy,2024-02-02,12,9,No Change,8,Happy,68
+198,31,Male,Anxiety,6,7,8,5,Anxiolytics,Cognitive Behavioral Therapy,2024-01-17,9,6,Deteriorated,8,Depressed,85
+259,31,Female,Anxiety,10,3,7,1,Mood Stabilizers,Dialectical Behavioral Therapy,2024-01-16,14,9,Improved,7,Excited,68
+233,55,Female,Bipolar,10,6,7,5,SSRIs,Dialectical Behavioral Therapy,2024-04-03,10,7,Deteriorated,9,Neutral,80
+116,33,Male,Bipolar,8,5,4,4,Antipsychotics,Mindfulness-Based Therapy,2024-03-30,12,8,Improved,8,Excited,60
+121,50,Male,Depression,5,4,8,3,Anxiolytics,Dialectical Behavioral Therapy,2024-02-22,12,7,Deteriorated,10,Depressed,81
+350,47,Male,Suicidal,10,8,8,1,Antipsychotics,Mindfulness-Based Therapy,2024-02-16,9,5,Deteriorated,6,Anxious,62
+225,51,Female,Anxiety,8,5,8,10,Mood Stabilizers,Dialectical Behavioral Therapy,2024-02-20,8,10,Improved,8,Stressed,83
+403,18,Female,Bipolar,5,8,4,10,Antipsychotics,Mindfulness-Based Therapy,2024-04-01,13,5,No Change,5,Neutral,68
+398,23,Male,Suicidal,9,3,5,5,Antipsychotics,Interpersonal Therapy,2024-03-25,10,10,Improved,10,Stressed,67
+128,53,Male,Depression,5,3,8,5,Antipsychotics,Cognitive Behavioral Therapy,2024-04-03,9,8,No Change,7,Depressed,71
+286,35,Male,Anxiety,9,5,4,1,Antipsychotics,Mindfulness-Based Therapy,2024-02-11,16,7,Deteriorated,7,Stressed,72
+412,31,Female,Anxiety,5,7,5,9,Antipsychotics,Dialectical Behavioral Therapy,2024-02-23,10,9,No Change,6,Stressed,69
+108,30,Male,Anxiety,9,7,7,8,Mood Stabilizers,Interpersonal Therapy,2024-01-27,13,6,Improved,7,Neutral,79
+371,60,Female,Bipolar,8,8,6,3,Benzodiazepines,Cognitive Behavioral Therapy,2024-02-05,15,9,Improved,9,Stressed,68
+326,36,Male,Bipolar,9,7,9,5,Antipsychotics,Dialectical Behavioral Therapy,2024-02-26,12,10,No Change,5,Anxious,89
+134,41,Female,Suicidal,10,4,9,3,Anxiolytics,Mindfulness-Based Therapy,2024-01-01,15,8,Deteriorated,8,Stressed,68
+453,58,Male,Bipolar,10,5,5,2,Antipsychotics,Interpersonal Therapy,2024-03-07,11,7,No Change,10,Stressed,63
+45,40,Female,Anxiety,10,8,7,8,Antipsychotics,Cognitive Behavioral Therapy,2024-03-18,12,5,Deteriorated,10,Excited,72
+461,40,Male,Suicidal,8,7,6,3,Antipsychotics,Interpersonal Therapy,2024-01-22,15,9,Deteriorated,5,Anxious,61
+66,30,Male,Bipolar,5,4,4,9,Antipsychotics,Mindfulness-Based Therapy,2024-04-04,11,6,Deteriorated,8,Happy,68
+284,44,Female,Bipolar,7,8,8,8,Mood Stabilizers,Interpersonal Therapy,2024-02-04,9,5,Improved,8,Stressed,72
+86,19,Male,Anxiety,7,3,5,5,Mood Stabilizers,Interpersonal Therapy,2024-03-04,11,5,No Change,6,Depressed,60
+243,18,Male,Anxiety,9,8,5,1,Anxiolytics,Dialectical Behavioral Therapy,2024-02-01,15,8,No Change,8,Stressed,84
+187,25,Male,Anxiety,7,8,9,4,Mood Stabilizers,Cognitive Behavioral Therapy,2024-01-04,9,7,Deteriorated,10,Neutral,66
+384,39,Female,Anxiety,8,7,8,5,SSRIs,Dialectical Behavioral Therapy,2024-02-01,9,10,Deteriorated,5,Depressed,74
+160,26,Female,Anxiety,5,3,7,4,Benzodiazepines,Mindfulness-Based Therapy,2024-02-08,15,8,Improved,10,Excited,67
+13,46,Female,Anxiety,7,4,9,4,Anxiolytics,Interpersonal Therapy,2024-01-16,8,9,No Change,7,Neutral,74
+36,53,Male,Bipolar,10,6,5,7,Mood Stabilizers,Cognitive Behavioral Therapy,2024-01-08,11,9,Deteriorated,7,Depressed,68
+29,58,Male,Suicidal,8,6,7,6,Antidepressants,Cognitive Behavioral Therapy,2024-02-08,8,6,Improved,6,Neutral,89
+171,24,Male,Depression,5,4,4,8,Anxiolytics,Dialectical Behavioral Therapy,2024-01-12,14,10,Deteriorated,7,Depressed,75
+143,50,Male,Anxiety,6,5,5,5,Antipsychotics,Dialectical Behavioral Therapy,2024-03-11,14,9,Improved,5,Stressed,87
+399,32,Female,Depression,7,4,7,3,Benzodiazepines,Dialectical Behavioral Therapy,2024-01-22,15,6,Deteriorated,8,Depressed,75
+343,24,Female,Bipolar,7,8,9,9,Mood Stabilizers,Interpersonal Therapy,2024-02-25,8,10,Deteriorated,9,Excited,66
+222,49,Female,Suicidal,8,6,7,1,Antidepressants,Dialectical Behavioral Therapy,2024-03-12,10,9,No Change,8,Neutral,85
+96,40,Female,Depression,5,8,4,2,Mood Stabilizers,Interpersonal Therapy,2024-01-27,9,9,No Change,10,Stressed,72
+52,31,Female,Anxiety,8,6,9,5,Antipsychotics,Dialectical Behavioral Therapy,2024-01-20,9,8,Deteriorated,6,Depressed,77
+241,20,Female,Bipolar,10,4,6,7,Antipsychotics,Cognitive Behavioral Therapy,2024-03-30,9,5,Deteriorated,6,Neutral,87
+485,32,Male,Bipolar,8,8,6,3,SSRIs,Cognitive Behavioral Therapy,2024-03-09,13,10,Improved,7,Neutral,72
+379,33,Male,Anxiety,5,4,6,7,SSRIs,Dialectical Behavioral Therapy,2024-03-23,12,10,Improved,6,Stressed,60
+179,41,Male,Anxiety,6,5,7,3,Benzodiazepines,Cognitive Behavioral Therapy,2024-02-09,15,9,Deteriorated,9,Depressed,62
+42,56,Male,Anxiety,5,7,6,4,Antipsychotics,Dialectical Behavioral Therapy,2024-04-05,11,9,Improved,10,Happy,60
+499,48,Male,Bipolar,9,4,6,9,Antidepressants,Mindfulness-Based Therapy,2024-03-22,10,6,Improved,7,Anxious,73
+422,20,Female,Suicidal,10,8,4,4,Antipsychotics,Interpersonal Therapy,2024-03-09,8,7,No Change,8,Anxious,83
+207,43,Female,Bipolar,5,5,6,9,Anxiolytics,Mindfulness-Based Therapy,2024-03-23,12,10,Improved,6,Neutral,65
+283,52,Male,Suicidal,8,3,5,1,SSRIs,Dialectical Behavioral Therapy,2024-02-14,13,9,Deteriorated,9,Stressed,81
+255,55,Female,Anxiety,7,5,9,3,SSRIs,Interpersonal Therapy,2024-01-08,12,6,Improved,8,Stressed,85
+413,32,Female,Anxiety,10,7,9,10,Antipsychotics,Mindfulness-Based Therapy,2024-01-30,10,9,Improved,9,Happy,77
+5,52,Male,Anxiety,7,6,6,8,Anxiolytics,Interpersonal Therapy,2024-03-18,12,5,Deteriorated,6,Excited,63
+257,26,Male,Anxiety,10,8,8,7,Antidepressants,Dialectical Behavioral Therapy,2024-03-11,14,8,Deteriorated,10,Neutral,72
+449,52,Female,Anxiety,10,7,8,8,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-13,9,5,Deteriorated,8,Stressed,81
+101,56,Male,Anxiety,7,7,6,5,SSRIs,Interpersonal Therapy,2024-03-12,13,8,No Change,9,Excited,79
+227,33,Male,Depression,6,6,7,1,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-12,9,6,Improved,10,Excited,70
+430,57,Female,Anxiety,5,6,6,2,Benzodiazepines,Dialectical Behavioral Therapy,2024-03-28,11,5,No Change,10,Happy,85
+214,51,Female,Suicidal,8,3,4,7,Mood Stabilizers,Dialectical Behavioral Therapy,2024-03-21,11,5,Improved,6,Depressed,82
+172,47,Female,Bipolar,7,7,6,6,Antidepressants,Cognitive Behavioral Therapy,2024-03-11,16,9,Deteriorated,6,Neutral,63
+99,43,Female,Anxiety,6,5,8,4,Antipsychotics,Dialectical Behavioral Therapy,2024-02-12,11,5,Deteriorated,9,Neutral,78
+293,51,Female,Anxiety,6,4,9,3,Antidepressants,Mindfulness-Based Therapy,2024-02-02,16,6,Deteriorated,10,Stressed,84
+216,21,Female,Anxiety,7,4,7,8,Anxiolytics,Cognitive Behavioral Therapy,2024-01-13,8,8,No Change,8,Stressed,89
+62,41,Female,Anxiety,6,4,7,6,Mood Stabilizers,Mindfulness-Based Therapy,2024-03-25,12,9,Deteriorated,5,Neutral,61
+48,26,Male,Anxiety,6,3,5,6,Benzodiazepines,Interpersonal Therapy,2024-02-01,16,9,No Change,6,Neutral,90
+33,39,Female,Anxiety,10,6,4,3,SSRIs,Interpersonal Therapy,2024-01-22,14,6,Improved,6,Stressed,63
+268,52,Female,Anxiety,8,6,4,3,Anxiolytics,Cognitive Behavioral Therapy,2024-04-09,13,10,Improved,9,Happy,77
+328,42,Female,Suicidal,8,3,5,3,Anxiolytics,Dialectical Behavioral Therapy,2024-01-11,16,9,No Change,10,Stressed,85
+201,24,Female,Anxiety,7,7,9,4,SSRIs,Dialectical Behavioral Therapy,2024-01-16,15,9,No Change,8,Neutral,87
+447,39,Female,Anxiety,5,3,9,10,Mood Stabilizers,Cognitive Behavioral Therapy,2024-03-29,16,9,Improved,8,Depressed,89
+28,56,Male,Anxiety,10,5,8,1,Benzodiazepines,Mindfulness-Based Therapy,2024-04-09,10,7,Deteriorated,8,Happy,83
+425,46,Male,Bipolar,7,4,8,9,Mood Stabilizers,Dialectical Behavioral Therapy,2024-02-28,11,9,Deteriorated,6,Happy,63
+231,22,Female,Anxiety,5,8,9,1,Mood Stabilizers,Dialectical Behavioral Therapy,2024-01-14,12,6,No Change,5,Excited,74
+261,20,Male,Anxiety,6,4,6,2,Anxiolytics,Dialectical Behavioral Therapy,2024-01-14,13,6,Deteriorated,10,Neutral,88
+289,51,Female,Bipolar,7,7,9,4,Mood Stabilizers,Interpersonal Therapy,2024-03-14,14,6,No Change,5,Neutral,77
+163,21,Female,Anxiety,8,6,5,6,Antipsychotics,Dialectical Behavioral Therapy,2024-02-08,13,7,Deteriorated,5,Anxious,66
+426,26,Male,Anxiety,7,3,5,7,SSRIs,Cognitive Behavioral Therapy,2024-01-10,11,9,Improved,10,Happy,64
+139,57,Female,Suicidal,10,6,5,6,Antidepressants,Cognitive Behavioral Therapy,2024-03-20,15,9,Deteriorated,5,Neutral,63
+63,30,Male,Bipolar,10,6,6,3,Mood Stabilizers,Interpersonal Therapy,2024-02-06,13,6,No Change,8,Depressed,82
+136,42,Female,Depression,5,6,7,4,Anxiolytics,Cognitive Behavioral Therapy,2024-03-24,12,9,Improved,10,Happy,72
+129,31,Male,Bipolar,6,3,4,9,Mood Stabilizers,Cognitive Behavioral Therapy,2024-01-24,16,10,Improved,8,Anxious,82
+477,40,Male,Anxiety,5,5,4,7,Benzodiazepines,Cognitive Behavioral Therapy,2024-02-12,8,8,Improved,6,Happy,67
+9,21,Female,Depression,6,7,7,10,Antidepressants,Mindfulness-Based Therapy,2024-01-16,15,5,No Change,6,Neutral,67
+327,37,Male,Bipolar,7,6,5,6,Mood Stabilizers,Mindfulness-Based Therapy,2024-03-11,13,5,Improved,8,Excited,62
+464,37,Male,Anxiety,5,5,4,8,Anxiolytics,Interpersonal Therapy,2024-03-15,12,8,Deteriorated,8,Anxious,69
+65,23,Female,Anxiety,7,5,7,8,SSRIs,Cognitive Behavioral Therapy,2024-01-20,14,7,No Change,9,Excited,69
+301,54,Female,Anxiety,9,4,4,6,Benzodiazepines,Mindfulness-Based Therapy,2024-01-11,10,8,Improved,8,Stressed,81
+15,23,Female,Anxiety,9,8,6,1,Antipsychotics,Dialectical Behavioral Therapy,2024-04-01,10,7,Deteriorated,6,Stressed,72
+157,44,Male,Anxiety,6,8,7,6,Antipsychotics,Dialectical Behavioral Therapy,2024-03-26,14,8,Improved,10,Happy,78
+41,46,Female,Anxiety,9,8,8,1,Antipsychotics,Dialectical Behavioral Therapy,2024-02-25,13,7,Improved,8,Excited,65
+380,21,Female,Depression,5,5,7,3,SSRIs,Interpersonal Therapy,2024-02-15,10,9,No Change,9,Stressed,88
+469,50,Male,Bipolar,8,4,6,3,Antidepressants,Mindfulness-Based Therapy,2024-03-04,8,9,Deteriorated,9,Excited,68
+404,43,Male,Anxiety,5,4,9,1,SSRIs,Mindfulness-Based Therapy,2024-03-31,9,5,Improved,6,Anxious,88
+217,49,Female,Anxiety,7,7,8,3,SSRIs,Cognitive Behavioral Therapy,2024-02-02,14,9,Improved,7,Excited,63
+280,32,Male,Anxiety,6,7,9,2,Anxiolytics,Dialectical Behavioral Therapy,2024-03-28,9,10,No Change,6,Excited,71
+435,37,Female,Bipolar,8,3,6,3,SSRIs,Interpersonal Therapy,2024-01-26,8,5,Deteriorated,6,Happy,72
+431,20,Female,Depression,7,3,6,5,Antidepressants,Cognitive Behavioral Therapy,2024-01-10,12,8,Improved,8,Stressed,70
+338,51,Female,Bipolar,8,8,5,8,SSRIs,Cognitive Behavioral Therapy,2024-03-20,11,6,Deteriorated,9,Excited,89
+237,50,Male,Bipolar,8,8,7,5,Antipsychotics,Mindfulness-Based Therapy,2024-01-12,12,7,Deteriorated,7,Happy,90
+208,59,Female,Anxiety,8,7,4,5,Benzodiazepines,Dialectical Behavioral Therapy,2024-03-29,13,6,No Change,6,Neutral,68
+213,46,Male,Bipolar,7,5,4,1,Benzodiazepines,Mindfulness-Based Therapy,2024-01-17,9,10,Deteriorated,6,Anxious,86
+296,26,Male,Anxiety,6,4,7,7,Antipsychotics,Interpersonal Therapy,2024-03-02,16,7,Improved,8,Anxious,90
+458,30,Male,Depression,6,5,8,2,Antidepressants,Mindfulness-Based Therapy,2024-01-19,16,10,Improved,5,Stressed,85
+252,30,Female,Bipolar,6,4,8,2,Antipsychotics,Mindfulness-Based Therapy,2024-02-01,15,6,No Change,5,Anxious,87
+489,27,Female,Bipolar,8,4,6,6,Mood Stabilizers,Cognitive Behavioral Therapy,2024-03-12,13,8,Deteriorated,6,Excited,86
+487,24,Female,Anxiety,5,8,9,7,Antidepressants,Dialectical Behavioral Therapy,2024-03-26,13,10,No Change,9,Excited,61
+304,37,Female,Depression,5,7,6,4,Benzodiazepines,Interpersonal Therapy,2024-01-05,13,5,Improved,9,Stressed,64
+351,33,Male,Anxiety,5,5,5,6,SSRIs,Cognitive Behavioral Therapy,2024-03-21,10,6,Deteriorated,10,Anxious,80
+270,36,Male,Anxiety,9,3,8,8,Benzodiazepines,Mindfulness-Based Therapy,2024-01-05,11,9,Deteriorated,8,Neutral,67
+202,50,Male,Anxiety,7,3,9,5,Antipsychotics,Dialectical Behavioral Therapy,2024-04-01,11,9,Deteriorated,5,Anxious,78
+162,22,Male,Anxiety,5,3,6,3,Benzodiazepines,Mindfulness-Based Therapy,2024-02-04,16,5,No Change,9,Anxious,73
+44,50,Female,Bipolar,8,8,7,2,SSRIs,Cognitive Behavioral Therapy,2024-02-17,14,9,Improved,6,Neutral,61
+218,34,Female,Suicidal,10,3,5,8,Benzodiazepines,Interpersonal Therapy,2024-02-16,11,7,No Change,7,Happy,70
+402,59,Male,Anxiety,8,7,5,10,Antipsychotics,Interpersonal Therapy,2024-03-26,12,7,Deteriorated,10,Stressed,62
+191,56,Female,Anxiety,7,8,4,3,Antidepressants,Interpersonal Therapy,2024-01-16,9,5,Improved,7,Excited,85
+310,47,Male,Anxiety,6,8,6,9,SSRIs,Cognitive Behavioral Therapy,2024-02-20,11,8,Deteriorated,5,Anxious,73
+260,44,Male,Anxiety,6,6,5,6,Benzodiazepines,Cognitive Behavioral Therapy,2024-03-21,13,10,Improved,5,Excited,88
+106,19,Female,Anxiety,8,8,9,9,Mood Stabilizers,Dialectical Behavioral Therapy,2024-02-27,10,7,Improved,9,Happy,73
+54,18,Male,Anxiety,7,4,4,1,Mood Stabilizers,Mindfulness-Based Therapy,2024-03-17,13,10,No Change,7,Anxious,69
+390,19,Male,Suicidal,10,3,4,9,Antidepressants,Mindfulness-Based Therapy,2024-02-10,10,9,Deteriorated,6,Excited,88
+2,40,Female,Suicidal,9,5,4,7,Antipsychotics,Interpersonal Therapy,2024-02-27,11,7,No Change,7,Neutral,78
+442,37,Male,Suicidal,10,7,9,1,Benzodiazepines,Interpersonal Therapy,2024-02-02,16,5,Improved,7,Excited,86
+483,60,Male,Depression,5,8,7,4,Benzodiazepines,Cognitive Behavioral Therapy,2024-04-04,13,6,Deteriorated,9,Happy,90
+50,46,Female,Anxiety,10,5,4,2,SSRIs,Interpersonal Therapy,2024-03-08,13,9,No Change,7,Depressed,72
+420,55,Female,Anxiety,8,3,6,10,Mood Stabilizers,Mindfulness-Based Therapy,2024-02-16,14,7,Deteriorated,6,Anxious,63
+81,21,Male,Suicidal,8,3,7,1,SSRIs,Interpersonal Therapy,2024-02-29,11,5,Deteriorated,10,Happy,83
+206,31,Male,Anxiety,7,3,4,3,Antidepressants,Dialectical Behavioral Therapy,2024-03-03,13,9,No Change,9,Happy,70
+35,53,Male,Anxiety,6,5,6,10,SSRIs,Interpersonal Therapy,2024-02-04,10,6,Deteriorated,9,Excited,84
+264,35,Female,Anxiety,7,5,9,1,Benzodiazepines,Dialectical Behavioral Therapy,2024-01-24,13,5,No Change,5,Neutral,82
+428,52,Female,Anxiety,5,8,7,5,SSRIs,Dialectical Behavioral Therapy,2024-01-21,10,8,Improved,7,Anxious,82
+367,31,Female,Anxiety,7,3,9,1,Benzodiazepines,Interpersonal Therapy,2024-01-07,11,9,Improved,7,Happy,79
+92,43,Female,Bipolar,9,8,7,10,Anxiolytics,Dialectical Behavioral Therapy,2024-03-20,8,7,Deteriorated,9,Depressed,75
+340,42,Female,Anxiety,7,5,4,8,Antidepressants,Mindfulness-Based Therapy,2024-01-10,8,9,No Change,5,Neutral,88
+474,49,Female,Depression,5,3,7,4,Antidepressants,Dialectical Behavioral Therapy,2024-03-14,12,9,Deteriorated,5,Excited,79
+53,38,Female,Bipolar,5,8,6,8,Benzodiazepines,Interpersonal Therapy,2024-03-02,12,7,Deteriorated,6,Neutral,77
+346,56,Male,Anxiety,6,7,8,7,Antidepressants,Interpersonal Therapy,2024-01-19,9,10,Deteriorated,7,Neutral,66
+265,26,Female,Bipolar,7,7,8,3,Benzodiazepines,Mindfulness-Based Therapy,2024-03-18,11,5,Deteriorated,5,Excited,68
+242,38,Female,Anxiety,9,3,5,8,Mood Stabilizers,Mindfulness-Based Therapy,2024-04-10,16,8,No Change,9,Anxious,66
+14,19,Male,Bipolar,6,7,9,10,Antipsychotics,Dialectical Behavioral Therapy,2024-01-24,9,10,Deteriorated,10,Excited,75
+316,28,Female,Anxiety,10,4,6,6,Mood Stabilizers,Cognitive Behavioral Therapy,2024-03-07,14,6,No Change,6,Stressed,87
+89,56,Female,Anxiety,9,7,9,10,SSRIs,Cognitive Behavioral Therapy,2024-03-18,10,7,No Change,10,Excited,79
+388,45,Male,Anxiety,7,6,6,6,SSRIs,Dialectical Behavioral Therapy,2024-02-26,15,6,No Change,8,Anxious,67
+274,33,Female,Suicidal,10,6,8,5,Anxiolytics,Mindfulness-Based Therapy,2024-04-03,8,10,Improved,7,Stressed,78
+167,19,Male,Suicidal,8,8,9,2,Antipsychotics,Dialectical Behavioral Therapy,2024-03-12,12,5,No Change,9,Depressed,74
+329,43,Male,Anxiety,5,3,5,4,Mood Stabilizers,Mindfulness-Based Therapy,2024-04-08,9,8,No Change,8,Anxious,88
+493,18,Male,Bipolar,10,5,8,7,Antipsychotics,Mindfulness-Based Therapy,2024-01-28,11,8,Improved,9,Neutral,71
+135,37,Female,Bipolar,9,3,6,3,Antidepressants,Mindfulness-Based Therapy,2024-01-06,15,8,No Change,6,Depressed,77
+307,51,Female,Bipolar,10,3,9,1,Benzodiazepines,Cognitive Behavioral Therapy,2024-01-10,8,8,Deteriorated,6,Happy,80
+481,58,Female,Anxiety,8,5,7,7,Mood Stabilizers,Interpersonal Therapy,2024-03-06,15,10,Improved,5,Stressed,72
+320,49,Male,Anxiety,7,3,6,1,Mood Stabilizers,Dialectical Behavioral Therapy,2024-02-21,12,10,Improved,10,Happy,85
+244,24,Female,Anxiety,7,5,9,10,Antipsychotics,Interpersonal Therapy,2024-01-05,9,10,Improved,7,Anxious,89
+55,28,Female,Anxiety,10,7,6,4,Antipsychotics,Mindfulness-Based Therapy,2024-01-28,16,9,Improved,10,Excited,69
+364,53,Male,Suicidal,8,6,6,9,Mood Stabilizers,Interpersonal Therapy,2024-01-16,12,10,Improved,9,Anxious,85
+51,40,Male,Anxiety,6,5,7,2,Anxiolytics,Cognitive Behavioral Therapy,2024-01-01,14,7,No Change,10,Stressed,81
+457,18,Male,Anxiety,9,3,7,5,Antipsychotics,Cognitive Behavioral Therapy,2024-01-14,13,5,Deteriorated,8,Anxious,63
+175,51,Male,Suicidal,9,8,5,7,SSRIs,Interpersonal Therapy,2024-01-07,13,6,No Change,6,Neutral,85
+446,35,Female,Bipolar,6,8,8,1,Antipsychotics,Interpersonal Therapy,2024-02-21,16,10,Deteriorated,7,Stressed,87
+190,35,Male,Depression,7,8,8,10,SSRIs,Cognitive Behavioral Therapy,2024-02-23,13,7,No Change,6,Excited,65
+497,22,Male,Anxiety,5,6,6,7,Benzodiazepines,Mindfulness-Based Therapy,2024-02-05,13,6,Deteriorated,8,Happy,86
+188,36,Male,Suicidal,8,8,5,8,Antipsychotics,Interpersonal Therapy,2024-03-22,16,7,No Change,5,Happy,67
+170,56,Female,Anxiety,8,6,5,4,Benzodiazepines,Dialectical Behavioral Therapy,2024-02-24,11,6,Improved,5,Happy,75
+59,35,Female,Anxiety,10,3,9,3,Antidepressants,Cognitive Behavioral Therapy,2024-02-21,15,8,Deteriorated,10,Excited,64
+49,41,Female,Depression,7,6,9,10,Antipsychotics,Cognitive Behavioral Therapy,2024-01-28,11,10,No Change,10,Depressed,79
+345,20,Female,Depression,5,8,4,7,Benzodiazepines,Mindfulness-Based Therapy,2024-01-15,15,6,No Change,8,Excited,85
+236,27,Male,Anxiety,6,6,6,2,Anxiolytics,Dialectical Behavioral Therapy,2024-01-01,12,10,Improved,10,Anxious,77
+253,31,Male,Anxiety,8,7,6,9,SSRIs,Cognitive Behavioral Therapy,2024-03-23,12,5,Improved,5,Anxious,90
+22,41,Female,Bipolar,5,7,9,7,Antidepressants,Interpersonal Therapy,2024-01-30,9,9,Improved,5,Anxious,65
+314,28,Male,Anxiety,9,5,6,4,SSRIs,Interpersonal Therapy,2024-01-17,15,7,Improved,10,Depressed,66
+460,18,Female,Anxiety,8,6,7,2,Benzodiazepines,Dialectical Behavioral Therapy,2024-02-17,16,7,Improved,5,Excited,88
+161,18,Male,Anxiety,7,6,4,4,SSRIs,Interpersonal Therapy,2024-03-25,16,10,No Change,5,Anxious,85
+277,24,Male,Anxiety,5,3,6,4,Antipsychotics,Cognitive Behavioral Therapy,2024-02-15,11,6,No Change,7,Excited,76
+444,27,Male,Anxiety,9,3,4,5,SSRIs,Mindfulness-Based Therapy,2024-03-07,12,10,Deteriorated,10,Neutral,70
+192,58,Female,Bipolar,6,6,6,1,Benzodiazepines,Interpersonal Therapy,2024-04-02,9,5,No Change,10,Anxious,78
+386,37,Male,Suicidal,9,6,7,3,Antipsychotics,Cognitive Behavioral Therapy,2024-02-06,12,10,Improved,6,Depressed,80
+294,51,Female,Bipolar,7,8,6,4,Anxiolytics,Mindfulness-Based Therapy,2024-01-07,9,9,Improved,10,Neutral,81
+414,20,Male,Bipolar,8,8,9,10,Anxiolytics,Mindfulness-Based Therapy,2024-03-18,15,8,Improved,10,Excited,86
+344,35,Male,Anxiety,9,3,5,9,Anxiolytics,Mindfulness-Based Therapy,2024-04-10,15,8,Improved,10,Neutral,76
+258,22,Female,Anxiety,8,6,7,10,Benzodiazepines,Cognitive Behavioral Therapy,2024-01-02,10,6,Deteriorated,7,Excited,63
+309,24,Male,Anxiety,8,7,7,6,Benzodiazepines,Dialectical Behavioral Therapy,2024-03-23,10,8,No Change,7,Neutral,82
+150,47,Male,Bipolar,10,6,5,7,Antidepressants,Dialectical Behavioral Therapy,2024-04-06,10,5,Improved,7,Happy,73
+131,35,Male,Anxiety,9,5,6,9,Mood Stabilizers,Cognitive Behavioral Therapy,2024-02-07,10,5,Improved,8,Stressed,64
+152,19,Male,Anxiety,7,4,5,10,SSRIs,Dialectical Behavioral Therapy,2024-01-11,14,5,Improved,6,Neutral,83
+360,46,Female,Anxiety,6,8,9,10,Mood Stabilizers,Dialectical Behavioral Therapy,2024-01-21,9,7,Deteriorated,9,Depressed,84
+100,24,Male,Anxiety,5,7,5,5,Antipsychotics,Cognitive Behavioral Therapy,2024-03-11,14,9,Improved,7,Excited,86
+373,45,Female,Anxiety,5,4,7,5,SSRIs,Cognitive Behavioral Therapy,2024-02-13,15,10,No Change,9,Neutral,80
+88,50,Male,Depression,5,3,7,1,Antidepressants,Dialectical Behavioral Therapy,2024-03-18,12,9,No Change,9,Neutral,64
+459,28,Male,Anxiety,5,8,9,6,SSRIs,Mindfulness-Based Therapy,2024-04-07,8,7,Deteriorated,6,Depressed,76
+331,50,Male,Depression,7,8,9,4,SSRIs,Mindfulness-Based Therapy,2024-01-06,8,5,No Change,5,Neutral,69
+215,39,Male,Anxiety,5,6,4,4,SSRIs,Interpersonal Therapy,2024-01-08,8,9,Deteriorated,7,Depressed,74
+467,45,Female,Bipolar,5,4,9,6,Benzodiazepines,Dialectical Behavioral Therapy,2024-03-26,15,8,Deteriorated,5,Anxious,77
+122,19,Male,Anxiety,8,4,6,3,Anxiolytics,Cognitive Behavioral Therapy,2024-01-11,16,7,Improved,8,Stressed,80
+500,58,Male,Bipolar,5,7,6,2,SSRIs,Cognitive Behavioral Therapy,2024-03-24,10,6,Deteriorated,5,Happy,70
+21,19,Male,Suicidal,8,4,5,7,Benzodiazepines,Cognitive Behavioral Therapy,2024-01-01,14,5,Improved,5,Depressed,67
+189,60,Female,Anxiety,10,7,5,7,Antipsychotics,Interpersonal Therapy,2024-01-06,8,5,No Change,8,Anxious,69
+72,57,Male,Depression,5,4,5,3,Antipsychotics,Mindfulness-Based Therapy,2024-02-25,13,5,No Change,10,Excited,61
+107,40,Male,Depression,7,3,6,1,Anxiolytics,Cognitive Behavioral Therapy,2024-02-28,10,7,Improved,9,Excited,81
+271,30,Male,Bipolar,8,5,4,2,Antipsychotics,Mindfulness-Based Therapy,2024-02-07,12,10,Improved,5,Neutral,79
+349,34,Female,Suicidal,9,7,4,5,SSRIs,Cognitive Behavioral Therapy,2024-01-12,9,8,No Change,5,Stressed,85
+436,35,Female,Anxiety,7,8,7,8,Benzodiazepines,Mindfulness-Based Therapy,2024-03-31,10,7,Deteriorated,10,Depressed,60
+103,31,Male,Bipolar,6,4,6,5,Antidepressants,Mindfulness-Based Therapy,2024-01-16,12,7,Deteriorated,6,Anxious,83
