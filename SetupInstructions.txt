@@ -1,0 +1,27 @@
+Setup Instructions
+
+Clone the repository
+
+git clone https://github.com/yourusername/mental-health-assistant.git
+cd mental-health-assistant
+Set up a virtual environment (recommended)
+
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies
+
+pip install -r requirements.txt
+Create a .env file with your OpenAI API key
+
+OPENAI_API_KEY=your_openai_api_key_here
+Initialize the database
+
+python -c "from UI.v4_UI_fix import init_db; init_db()"
+Running the Application
+
+Launch the UI
+
+python UI/v4_UI_fix.py
+The application will be accessible at http://localhost:7860 by default.
+
+Register an account and log in to access the patient management system.
